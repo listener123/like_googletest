@@ -6,17 +6,21 @@
 
 主要开发内容有：
 
-*条件、数值、字符串的EXPECT_XXX和ASSERT_XXX系列语句。
-*显示语句FAIL和FAILURE。
-*用于生成测试样例的TEST。
-*执行测试样例的RUN_ALL_TESTS。
+* 条件、数值、字符串的EXPECT_XXX和ASSERT_XXX系列语句。
+
+* 显示语句FAIL和FAILURE。
+
+* 用于生成测试样例的TEST。
+
+* 执行测试样例的RUN_ALL_TESTS。
 
 ### 使用说明:
 
 提供了一个测试框架使用样例test.cpp。
 
-*make	//编译test.cpp生成a.out
-*./a.out	//执行程序
+* make	//编译test.cpp生成a.out
+
+* ./a.out	//执行程序
 
 ### 运行效果
 
