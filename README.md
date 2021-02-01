@@ -1,4 +1,4 @@
-# 基于宏定义的测试框架（功能仿照GoogleTest面向过程部分）
+# 基于宏定义的测试框架（功能仿照GoogleTest）
 
 ### 开发功能简介
 
@@ -18,15 +18,15 @@
 *make	//编译test.cpp生成a.out
 *./a.out	//执行程序
 
-## 运行效果
+### 运行效果
 
-[![demo.png]](demo.jpg)
+![test.cpp运行效果](https://github.com/listener123/like_googletest/blob/main/demo.png)
 
-## 开发测试平台
+### 开发测试平台
 
 *   Linux
 
-## 相关项目参考
+### 相关项目参考
 
 [开课吧C++直播公开课]
 
